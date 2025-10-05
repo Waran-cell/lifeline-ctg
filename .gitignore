@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Artifacts from training
+ctg_rf_artifacts/
+
+# Local dataset (don’t upload CTG.csv)
+CTG.csv
+
+# Logs
+*.log
