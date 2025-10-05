@@ -1,4 +1,8 @@
 # Lifeline – Predicting Fetal Health from CTG Data
+TM-214
+Tan Xeng Ian
+Ma Angela Sophia Isidro Rosel
+K Eswaran
 
 ## 📌 Overview
 **Lifeline** is a machine learning project designed to classify **fetal health status** using **Cardiotocography (CTG) data**.  
