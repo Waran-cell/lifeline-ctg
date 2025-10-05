@@ -1,6 +1,5 @@
 ucimlrepo
 imbalanced-ensemble
-lightgbm
 pytorch_tabnet
 xgboost
 scikit-learn
